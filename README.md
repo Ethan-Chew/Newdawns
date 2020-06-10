@@ -5,7 +5,7 @@
 NewDawns, a game bot,where you can expand your army, choose an ideology, go to war, increase your population and economy.
 
 ### Use of this Source Code
-If you will be using this source code, please DO NOT the credits and info command in the bot.
+If you will be using this source code, please DO NOT edit the info command in the bot.
 
 ### How to install
 1. Make sure you’re logged on to the Discord Developer Website.
