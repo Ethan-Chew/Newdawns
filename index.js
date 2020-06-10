@@ -24,6 +24,8 @@ const debug = true;
 const offline = false;
 const dnd = false;
 
+const TOKEN = "NzIwMDg5OTc5MTMyNDQ0ODIz.XuA6UQ.O6HXDF0bF31nZ6XZskYnS_DJb8k";
+
 bot.on("ready", () => {
   if (offline == true && debug == false && dnd == false) {
     bot.user.setStatus("invisible");
@@ -290,4 +292,4 @@ bot.on("message", message => {
   });
 });
 
-bot.login(process.env.TOKEN);
+bot.login(TOKEN);
